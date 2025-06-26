@@ -1,0 +1,30 @@
+body
+{
+    background-color: rgb(218, 180, 77);
+}
+
+a:link, a:visited
+{
+    background-color: orangered;
+    color: rgb(253, 253, 253);
+    text-decoration: none;
+    padding: 16px;
+    text-align: center;
+    display: inline-block;
+    font-family: 'Trebuchet MS';
+}
+
+
+a:hover
+{
+    color: blue;
+    background-color: rgb(253, 38, 217);
+    text-decoration: underline;
+}
+
+a:active
+{
+    color: yellow;
+    background-color: green;
+    text-decoration: purple;
+}
